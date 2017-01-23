@@ -1,0 +1,5 @@
+Read from the file correctly 5/20 -- I don't see where you load the file
+Implement class hierarchy correctly 15/20 -- need implementations for the class interfaces in Circle, ...
+Populate appropriate data structures with shape data 5/20 -- missing, I think
+Show list of shapes correctly 10/20 -- good start here
+Show specific shape properties correctly 10/20 -- also the right idea here
