@@ -1,0 +1,9 @@
+Instructions:
+
+Main goal is to find the ball:
+you will be shown the ball in the beginning
+and you are asked to click when you are ready. 
+all you have to do is keep track of where the ball is located. 
+you get three strikes and you are out! 
+
+GOOD LUCK AND DONT LOSE! :) 
